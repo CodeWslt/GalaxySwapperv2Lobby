@@ -2,6 +2,6 @@
     "IdSwapperIcon":"https://cdn.discordapp.com/attachments/846121669813862450/869452881294671912/Idswapper.png",
     "DiscordInvite":"https://discord.gg/rbAKZvbyj8",
     "Warningmessage":"false",
-    "SwapperDowntime":"false",
-    "SwapperDowntimeMessage":"Swapper Is Currently Down Please Vist Our Discord For More Info!",
+    "SwapperDowntime":"true",
+    "SwapperDowntimeMessage":"Galaxy Swapper Lobby Is Patched! Please Use In Game For Now.",
 }
